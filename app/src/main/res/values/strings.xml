@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Olymp Trade</string>
+    <string name="fullName">Full Name</string>
+    <string name="userName">Username</string>
+    <string name="email">E-mail Address</string>
+    <string name="phone">Phone Number</string>
+    <string name="password">Password</string>
+    <string name="confirm">Confirm Password</string>
+    <string name="sign">Sign Up</string>
+    <string name="start">Already a user?</string>
+    <string name="signIn">Sign In</string>
+    <string name="welcome">Hello!!!</string>
+    <string name="splash">a place for billionaires...</string>
+</resources>
